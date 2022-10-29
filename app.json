@@ -1,5 +1,5 @@
 {
-    "name": "BMI 4k",
-    "description": "Serving BI",
+    "name": "BMI 4K FastAPI",
+    "description": "Serving BMI with FastAPI",
     "repository": "https://github.com/hero-docker/main"
   }
